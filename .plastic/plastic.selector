@@ -1,0 +1,4 @@
+repository "meta-quest-template@zackrylangford@cloud"
+  path "/"
+    br "/main"
+    co "/main"
